@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Audiowide&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Mitr&display=swap');
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+    background-image: url("tigrexbackground.png");
+    background-attachment: fixed;
+    background-size: 1200px;
+    background-repeat: no-repeat;
+    background-position-x: center; 
+    color: white; 
+}
+h1 {
+    background-color: rgba(0, 0, 0, 0.3);
+    font-family: 'Audiowide', cursive;
+}
+h3 {
+    background-color: rgba(0, 0, 0, 0.3);
+    font-family: 'Audiowide', cursive;
+    font-size: 23px;
+}
+p {
+    background: 0%;
+    background-color: rgba(0, 0, 0, 0.3);
+    font-size: 17px;
+    font-family: 'Mitr', sans-serif;
+}
+#cnlogo {
+    width: 50%
+}
