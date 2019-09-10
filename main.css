@@ -15,18 +15,41 @@ body {
 h1 {
     background-color: rgba(0, 0, 0, 0.3);
     font-family: 'Audiowide', cursive;
+    text-align: center;
 }
 h3 {
     background-color: rgba(0, 0, 0, 0.3);
     font-family: 'Audiowide', cursive;
     font-size: 23px;
+    text-align: center;
 }
 p {
     background: 0%;
     background-color: rgba(0, 0, 0, 0.3);
     font-size: 17px;
     font-family: 'Mitr', sans-serif;
+    text-align: center;
 }
 #cnlogo {
     width: 50%
+}
+
+#marg1 {
+    margin: 1px 620px 1px;
+}
+
+#marg2 {
+    margin: 1px 640px 1px;
+}
+
+#marg3 {
+    margin: 1px 640px 1px;
+}
+
+#marg4 {
+    margin: 1px 540px 1px;
+}
+
+#marg5 {
+    margin: 1px 575px 1px;
 }
