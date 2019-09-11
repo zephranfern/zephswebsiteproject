@@ -32,12 +32,41 @@ p {
     font-family: 'Mitr', sans-serif;
 }
 
-.container {
+.container1 {
     display : flex;
     flex-wrap: wrap;
     justify-content: flex-start;
     flex-direction: column;
 }
+
 .cnlogo {
     width: 10%;
+}
+
+.arrow{
+    width: 4vw;
+}
+
+.container2 {
+    display : flex;
+    flex-direction: row;
+}
+
+.container3 {
+    display : flex;
+    flex-direction: column-reverse;
+    font-size: 0.9vw;
+    font-family: 'Mitr', sans-serif;
+}
+
+.container4 {
+    display : flex;
+    flex-direction: column;
+    font-size: 0.9vw;
+    font-family: 'Mitr', sans-serif;
+    text-align: center;
+}
+
+.icon {
+    width: 6vw;
 }
